@@ -13,5 +13,6 @@
  FTDI UART adapter use.
 
 ### Update
-2017/03/11 fix, 3V3 line change.
+2017/03/11 fix, 3V3 line change
+
 
